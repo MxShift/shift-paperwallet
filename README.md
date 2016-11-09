@@ -1,9 +1,9 @@
 
 <img align="right" src="https://cdn.rawgit.com/feross/standard/master/badge.svg">
 
-# liskpaperwallet.com
+# paperwallet.shift.4miners.net
 
-Unofficial paper wallet generator for Lisk cryptocurrency.
+Unofficial paper wallet generator for SHIFT cryptocurrency.
 
 ## License
 
@@ -11,6 +11,7 @@ Unofficial paper wallet generator for Lisk cryptocurrency.
 (The MIT License)
 
 Copyright (c) 2016 Ricardo Ferro <ricardo.ferro@gmail.com>
+Copyright (c) 2016 4miners.net
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
