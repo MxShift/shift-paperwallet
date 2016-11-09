@@ -28,6 +28,7 @@ body {
 }
 .page-header .version {
   color: #bbb;
+  font-size: 20px;
 }
 .page-header .gh-btns {
   height: 28px;
@@ -141,12 +142,17 @@ wallet .paper-wrapper img {
 }
 wallet .paper-wrapper .paper .address,
 wallet .paper-wrapper .paper .passphrase,
-wallet .paper-wrapper .paper .address_label,
-wallet .paper-wrapper .paper .passphrase_label,
 wallet .paper-wrapper .paper .amount_label {
   white-space: nowrap;
   color: #2c2c2c;
 }
+wallet .paper-wrapper .paper .address_label,
+wallet .paper-wrapper .paper .passphrase_label {
+  white-space: nowrap;
+  color: #FFFFFF;
+}
+
+
 .cssload-loader {
   position: relative;
   width: 6px;

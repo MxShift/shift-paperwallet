@@ -1,6 +1,6 @@
 {
   "name": "shift-paperwallet",
-  "version": "1.3.0a",
+  "version": "1.3.0b",
   "description": "Unofficial paper wallet generator for SHIFT cryptocurrency.",
   "homepage": "https://github.com/4miners/shift-paperwallet",
   "bugs": "https://github.com/4miners/shift-paperwallet/issues",
