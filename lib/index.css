@@ -267,13 +267,13 @@ a:hover, a:focus {
 }
 
 .btn-success:hover {
-  background-color: #2D556F;
-  border-color: #2D556F;
+  background-color: #13bcc8;
+  border-color: #13bcc8;
 }
 
 .btn-success:active:hover, .btn-success.active:hover, .open > .dropdown-toggle.btn-success:hover, .btn-success:active:focus, .btn-success.active:focus, .open > .dropdown-toggle.btn-success:focus, .btn-success.focus:active, .btn-success.active.focus, .open > .dropdown-toggle.btn-success.focus {
   background-color: #13bcc8;
-  border-color: #484653;
+  border-color: #13bcc8;
   color: #13bcc8;
 }
 
@@ -295,8 +295,8 @@ a:hover, a:focus {
   border-color: #13bcc8;
 }
 .btn-info:hover {
-  background-color: ##2D556F;
-  border-color: ##2D556F;
+  background-color: #13bcc8;
+  border-color: #13bcc8;
 }
 .btn-info:active,
 .btn-info.active,
@@ -315,8 +315,8 @@ a:hover, a:focus {
 .btn-info.active.focus,
 .open > .dropdown-toggle.btn-info.focus {
   color: #ffffff;
-  background-color: ##2D556F;
-  border-color: ##2D556F;
+  background-color: #13bcc8;
+  border-color: #13bcc8;
 }
 .btn-info:active,
 .btn-info.active,
@@ -332,8 +332,8 @@ fieldset[disabled] .btn-info:focus,
 .btn-info.disabled.focus,
 .btn-info[disabled].focus,
 fieldset[disabled] .btn-info.focus {
-  background-color: ##2D556F;
-  border-color: ##2D556F;
+  background-color: #13bcc8;
+  border-color: #13bcc8;
 }
 
 @keyframes cssload-loader {
