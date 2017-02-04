@@ -1,9 +1,10 @@
 
 <img align="right" src="https://cdn.rawgit.com/feross/standard/master/badge.svg">
 
-# paperwallet.shiftnrg.nl (edited for shift by seatrips jan 2017)
+# paperwallet.shiftnrg.nl 
 
 Unofficial paper wallet generator for SHIFT cryptocurrency.
+edited for shift by seatrips @ jan 2017
 
 ## License
 
