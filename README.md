@@ -3,7 +3,7 @@
 
 # paperwallet.shiftnrg.nl 
 
-Unofficial paper wallet generator for SHIFT cryptocurrency.
+Official paper wallet generator for SHIFT cryptocurrency.
 edited for shift by seatrips @ jan 2017
 
 ## License
